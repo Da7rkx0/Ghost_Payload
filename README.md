@@ -15,7 +15,6 @@ Ghost Payload™ is a state-of-the-art application that binds multiple files int
 - **File Binding:** Integrates multiple files into a single executable for streamlined deployment.
 - **Trojan Simulation:** Mimics Trojan Backdoor behavior for advanced payload management.
 - **Strong Encryption:** Utilizes cutting-edge cryptographic methods to protect payload integrity.
-- **Cross-Platform GUI:** Built with PyQt5 for a responsive and intuitive user interface.
 
 ## Technical Specifications
 - **Programming Language:** Python
