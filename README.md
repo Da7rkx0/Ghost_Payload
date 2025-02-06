@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Version-1.3.0-important" alt="Version">
 </div>
 
-# Ghost Payload™
 
 ## Introduction
 Ghost Payload™ is a state-of-the-art application that binds multiple files into a single executable, simulating Trojan Backdoor behavior. It is engineered to securely drop and execute the binded contents with advanced encryption techniques, ensuring robust security and seamless operation.
