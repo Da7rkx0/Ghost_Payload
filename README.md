@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2B-blue" alt="Platform">
-  <img src="https://img.shields.io/badge/.NET-4.8%2B-green" alt=".NET">
   <img src="https://img.shields.io/badge/License-AGPL_3.0-red" alt="License">
   <img src="https://img.shields.io/badge/Version-1.3.0-important" alt="Version">
 </div>
