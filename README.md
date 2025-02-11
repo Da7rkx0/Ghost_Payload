@@ -12,7 +12,7 @@ Ghost Payload is a state-of-the-art application that binds multiple files into a
 
 ## Video
 
-[![Video](https://github.com/user-attachments/assets/f9dbb829-f038-4d6f-84c0-089b014f1da0)](https://streamable.com/vxy1gy)
+https://streamable.com/vxy1gy
 
 
 ## Core Features
