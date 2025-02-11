@@ -31,5 +31,7 @@ For detailed documentation and support, please contact our support team.
 ## Legal and Licensing
 This software is proprietary and protected by international laws. Unauthorized use or distribution is prohibited.
 
+## Buy Now
+https://linktr.ee/Da7rkx0
 ---
 *Ghost Payload™ is a registered trademark. All rights reserved.*
