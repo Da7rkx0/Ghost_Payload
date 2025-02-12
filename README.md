@@ -11,7 +11,7 @@
 Ghost Payload is a state-of-the-art application that binds multiple files into a single executable, simulating Trojan Backdoor behavior. It is engineered to securely drop and execute the binded contents with advanced encryption techniques, ensuring robust security and seamless operation.
 
 ## Small Video
-https://github.com/user-attachments/assets/2ced2c8f-478f-4af6-8573-14619f81b5f5
+https://github.com/user-attachments/assets/f4ddb4ca-ba7a-42b2-9c4b-cf78dce6919c
 
 ## Full Video
 
